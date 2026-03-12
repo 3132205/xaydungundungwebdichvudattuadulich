@@ -80,6 +80,11 @@ tour-booking/
 * [ ] <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aeea7779-326e-4c4d-803a-5fdc5482f1b8" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7578ddda-ae9f-47b7-8e18-9f9e15b67f48" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/461ee42b-ed81-4c99-bb0a-cde53c6d594b" />
+<img width="1009" height="568" alt="image" src="https://github.com/user-attachments/assets/794f840e-8e32-495c-9a39-2b1cceaf2531" />
+<img width="1009" height="568" alt="image" src="https://github.com/user-attachments/assets/05a0f3fc-f12d-4f6a-bb99-5370ee87ba09" />
+<img width="1009" height="568" alt="image" src="https://github.com/user-attachments/assets/4810c5f4-3f4c-47f1-9511-a14f5811d963" />
+<img width="1009" height="568" alt="image" src="https://github.com/user-attachments/assets/94d285b6-06fa-4c30-87e1-24e2098d73a1" />
+<img width="947" height="533" alt="image" src="https://github.com/user-attachments/assets/36889a25-1d00-4773-8d91-2c65652fd12d" />
 
 
 
